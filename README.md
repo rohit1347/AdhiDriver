@@ -1,2 +1,2 @@
 # Mudroc
-Moror driver based on VHN5019.
+Motor driver based on VHN5019.
